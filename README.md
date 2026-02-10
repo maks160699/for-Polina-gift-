@@ -1,4 +1,3 @@
-# for-Polina-gift-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
